@@ -2,4 +2,4 @@
 
 Windows its my JavaScript project
 
-https://greatsergii.github.io/windows/
+https://sergii-b.github.io/windows/
